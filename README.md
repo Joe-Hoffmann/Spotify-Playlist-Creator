@@ -6,7 +6,7 @@ Before running this program a few things will need to be completed.
 2. 
    All you need to fill out are the App Name, App Description, and Redirect URL fields.
    
-   Nothing specific needed here, just fill out whatever you want to call the app, for the redirect you can makup a url such as "https://example.com/".
+   Nothing specific needed here, just fill out whatever you want to call the app, for the redirect you can makeup a url such as "https://example.com/".
    
    Once completed it will take you back to your dashboard and you should see your new app, click on it and at the top under basic information is the keys you will need.
 
